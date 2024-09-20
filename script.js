@@ -67,7 +67,7 @@ But, in a larger sense, we can not dedicate—we can not consecrate—we can not
   * 
   * Assign a version of the Gettysburg address converted to all capital letters.
   */
- const q7 = address.toUpperCase();
+ const q7 = null;
  
  /**
   * QUESTION 8
